@@ -1,0 +1,12 @@
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\HWID Spoofer.exe.config
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\HWID Spoofer.exe
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\HWID Spoofer.pdb
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\MetroFramework.dll
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID_Spoofer.Form1.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID_Spoofer.Properties.Resources.resources
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID Spoofer.csproj.GenerateResource.Cache
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID Spoofer.exe
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID Spoofer.pdb
+C:\Users\Henry\Documents\Visual Studio 2015\Projects\HWID Spoofer\HWID Spoofer\obj\Debug\HWID_Spoofer.Form2.resources
